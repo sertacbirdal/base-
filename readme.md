@@ -1,5 +1,4 @@
-# [Base](http://getbase.org)
-
+## [Base](http://getbase.org)
 ### A Rock Solid, Responsive CSS Framework built to work on all devices big, small and in-between.
 
 Lightweight and minimal code. Spend less time overriding styles and focus more time on creating beautiful website applications.
